@@ -1,0 +1,5 @@
+# будут игнорироваться папки out, .idea и target, файл .iml
+out/
+.idea/
+target/
+*.iml
